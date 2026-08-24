@@ -19,7 +19,7 @@ The second portfolio that I found was Artem Gomov's from Virginia Tech Universit
 
 CHANNELLOCK 420 Tongue and Groove Pilers. Patent US3192805A Howard H Manning
 
-<IMG src="IMG_6533.MOV" alt="Alt Text" width="300" height="200">
+
 
 A. The primary function of the CHANNELLOCK 420 is to convert your hand force from gripping the handle to the jaws to clamp onto a external object. Then with an applied rotational torque the CHANNELLOCK rotates the external object. 
 
