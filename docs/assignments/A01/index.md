@@ -5,7 +5,7 @@ To build a professional portfolio
 
 ## Analyze
 
-Task A: Analyzing Portfolios
+**Task A: Analyzing Portfolios**
 
 Portfolio #1 - https://instructure.charlotte.edu/eportfolios/4933/landing-page-slash-welcome/welcome
 
@@ -15,7 +15,7 @@ Portfolio #2 - https://artemgomov.github.io/project-01.html
 
 The second portfolio that I found was Artem Gomov's from Virginia Tech University. Artem's portfolio at first glance is very appealing to the eye. Everything is very easy to navigate for the reader. First you are presented with his "About Me" section that is very informative about his passion in formula SAE. It is also no problem finding the projects that he participated in during his time at Virginia Tech. His projects state his end goals and shows images of some of the pieces that went into his final products. Although I could not reproduce the work. This is because he does not explain or show how his decisions were made. Artem used proper grammar and language in his resume that he would provide to an employer. 
 
-Task B: Product Analysis
+**Task B: Product Analysis**
 
 CHANNELLOCK 420 Tongue and Groove Pilers. Patent US3192805A Howard H Manning
 
@@ -25,7 +25,7 @@ B. This product can be modeled as a lever in static equilibrium. The products go
 
 C.
 
-**1. PERMALOCK fastener**
+1. PERMALOCK fastener
 ![CHANNELLOCK PERMALOCK fastener](IMG_E6532.JPG)
 
 
