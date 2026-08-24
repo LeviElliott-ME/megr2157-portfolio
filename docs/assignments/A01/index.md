@@ -26,7 +26,7 @@ B. This product can be modeled as a lever in static equilibrium. The products go
 C.
 
 1. PERMALOCK fastener
-
+![CHANNELLOCK PERMALOCK fastener](IMG_E6532.JPG)
 
 
 
