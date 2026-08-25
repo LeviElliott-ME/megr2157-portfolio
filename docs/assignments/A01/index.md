@@ -35,13 +35,13 @@ The fastener connects the two piler arms together. It also is the joint at which
 
 2. First piler arm
 
-<IMG src="IMG_E6535.JPG" alt="Alt Text" width="300" height="300">
+<IMG src="IMG_E6536.JPG" alt="Alt Text" width="300" height="300">
 
 On the first piler arm the long handle provides a large moment arm from the pivot. This allows a small hand force to generate a larger force at the jaws. The jaw is much shorter than the handle, which increases mechanical advantage. The jaw puts a bite on the workpiece. Which increases friction and prevents slipping. The "tongue" is on the first piler. Which interacts with the groove section on the second piler that allows adjustment of the arms. This brings the jaws closer or farther apart. This allows a proper grip on the workpiece with the jaws.   
 
 3. Second piler arm
 
-<IMG src="IMG_E6536.JPG" alt="Alt Text" width="300" height="300">
+<IMG src="IMG_E6535.JPG" alt="Alt Text" width="300" height="300">
 
 The second piler arm works with the first arm to complete the lever mechanism. The long handle provides the input moment, while the jaw section transfers the moment into the clamping force. The "groove" is on this second piler. This groove allows the arm to interact with the tongue at different positions for adjustment.
 
