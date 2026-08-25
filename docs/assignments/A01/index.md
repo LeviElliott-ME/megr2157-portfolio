@@ -53,8 +53,12 @@ D. Two alternate tools that could be used to solve the same primary function as 
 
 **Intentional customization:** 
 
+My customization was changing the theme color. The original color was green to switched the color to red. I chose this color because the official Toyota website color scheme is Red and White. This is to draw the viewer attention. The reason that they chose to do this is because the online Toyota logo is mostly red. I am not totally sure yet what industry I want to purpose in. Although I have always loved tinkering with automobiles. I chose this color as well because I feel like the color read sticks out.
 
+**Documentation Standard:**
 
+For the entirety of this portfolio I will present my work in this portfolio with clear and understandable reasoning. 
 
 ## Communicate
 
+Completed in the "About Me" section
