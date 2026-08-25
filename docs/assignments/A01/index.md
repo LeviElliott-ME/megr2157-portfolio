@@ -31,9 +31,13 @@ C.
 
 <IMG src="IMG_E6532.JPG" alt="Alt Text" width="300" height="300">
 
+The fastener connects the two piler arms together. It also is the joint at which the piler arms move. The Permalock fastener is the rotational connection that is necessary for the lever action. While use the fastener is what transfers forces between the two piler arms. While allowing the arms to rotate relative to each other. CHANNELLOCK describes the PERMALOCK fastener as increasing the joint strength and replacing the typical nut and bolt failure.
+
+2. First piler arm
 
 
- 
+
+
 ## Decide
 
 
