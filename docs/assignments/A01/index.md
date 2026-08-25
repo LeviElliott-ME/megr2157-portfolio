@@ -47,11 +47,13 @@ The second piler arm works with the first arm to complete the lever mechanism. T
 
 D. Two alternate tools that could be used to solve the same primary function as the CHANNELLOCK. The first is an adjustable wrench (Crescent wrench). The second tool is a pipe wrench. In the design of the CHANNELLOCK a decision was made to put rubber on the handles. I think this was intended to improve grip and to soften the hand to handle contact.
 
+## Decide
+
 **Homepage identity:** The purpose of the homepage is to provide the reader an understanding of what the portfolio consists of and how it is organized. It shows the progression of our engineering projects. The portfolio also states how our projects follow the Analyze, Decide, and Communicate structure. Which outlines how our decisions as engineers are conducted. The homepage also states that our projects should build on one another.
 
 **Intentional customization:** 
 
-## Decide
+
 
 
 ## Communicate
