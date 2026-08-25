@@ -21,7 +21,7 @@ CHANNELLOCK 420 Tongue and Groove Pilers. Patent US3192805A Howard H Manning
 
 <IMG src="IMG_6533.JPG" alt="Alt Text" width="300" height="200">
 
-A. The primary function of the CHANNELLOCK 420 is to convert your hand force from gripping the handle to the jaws to clamp onto a external object. Then with an applied rotational torque the CHANNELLOCK rotates the external object. 
+A. The primary function of the CHANNELLOCK 420 is to convert your hand force from gripping the handle to the jaws to clamp onto a external object. Then with an applied rotational torque the CHANNELLOCK rotates the external object. Mostly used to turn pipes, nuts, and bolts.
 
 B. This product can be modeled as a lever in static equilibrium. The products governed physical principle is a moment equilibrium about a pivot. (F_hand)(L_hand)=(F_jaw)(L_jaw). The assumption is that the members and pivot are treated as ridged. Friction at the pivot is ignored. Which allows the hand force and the jaw force to be in relation using static torque equilibrium.  
 
@@ -35,6 +35,17 @@ The fastener connects the two piler arms together. It also is the joint at which
 
 2. First piler arm
 
+<IMG src="IMG_E6535.JPG" alt="Alt Text" width="300" height="300">
+
+On the first piler arm the long handle provides a large moment arm from the pivot. This allows a small hand force to generate a larger force at the jaws. The jaw is much shorter than the handle, which increases mechanical advantage. The jaw puts a bite on the workpiece. Which increases friction and prevents slipping. The "tongue" is on the first piler. Which interacts with the groove section on the second piler that allows adjustment of the arms. This brings the jaws closer or farther apart. This allows a proper grip on the workpiece with the jaws.   
+
+3. Second piler arm
+
+<IMG src="IMG_E6536.JPG" alt="Alt Text" width="300" height="300">
+
+The second piler arm works with the first arm to complete the lever mechanism. The long handle provides the input moment, while the jaw section transfers the moment into the clamping force. The "groove" is on this second piler. This groove allows the arm to interact with the tongue at different positions for adjustment.
+
+D. Two alternate tools that could be used to solve the same primary function as the CHANNELLOCK. The first is an adjustable wrench (Crescent wrench). The second tool is a pipe wrench. 
 
 
 
