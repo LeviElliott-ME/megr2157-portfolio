@@ -8,7 +8,7 @@ For assignment #2 I was given a task of designing and modeling a 3D truss that f
 
 <img width="286" height="185" alt="image" src="https://github.com/user-attachments/assets/45ee35bf-2ed4-453b-b577-758a4911d123" />
 
-
+These are the details and requirements based off of the image. 
 
 
 
