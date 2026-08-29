@@ -2,6 +2,14 @@
 
 ## Objective
 
+**1. Introduction**
+
+For assignment #2 I was given a task of designing and modeling a 3D truss that follows given requirements. Our requirements are based of this image.
+
+
+
+
+
 
 ## Analyze
 
