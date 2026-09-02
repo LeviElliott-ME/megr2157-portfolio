@@ -27,7 +27,9 @@ https://www.octalsteel.com/resources/astm-a500-grade-c-pipe/
 
 ## My Truss Design/Analyze
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d713607c-fbc6-4cc5-a91b-79f3c654fafc" />
+<div align="center">
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d713607c-fbc6-4cc5-a91b-79f3c654fafc" />
+</div>
 
 
 I choose this truss design because it was the first design I thought of when l was looking at the image of the criteria. I choose this design because it does not have a lot of members. Less members provides a cheaper material cost, fewer failure points, and easier to calculate internal and external loads. It also only consists of five joints. So, my design will save time and money when manufactoring.
