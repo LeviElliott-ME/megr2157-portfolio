@@ -45,6 +45,8 @@ The first thing to do is to solve for all of the unknown external forces. These 
 
 ## Internal Forces
 
+Then, I solved for my internal forces. To do this I used the external forces that I found. I also used method of joints for all of the five joints. I found that my largest force in tension was BC=16.02kN. I found that my largest compression force was DC=16.02kN
+
 <div align="center">
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/207fdc83-5220-470c-b877-4ac384ff2c43" />
 </div>
