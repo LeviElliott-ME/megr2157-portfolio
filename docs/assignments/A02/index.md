@@ -36,10 +36,11 @@ I choose this truss design because it was the first design I thought of when l w
 
 ## External Forces
 
+The first thing to do is to solve for all of the unknown external forces. These where Ax, Ay, and Ey. To do this I used the sum of the forces in y equals zero. This gave me the result Ax=0kN. Then I used the sum of the forces in x equals zero. This gave me the result Ay=6.67kN. Lastly, to find Ey I did a moment around E. This gave me the result Ey=-6.67kN
+
 <div align="center">
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/efdc1dec-1be6-4150-98d5-07124e2145ae" />
 </div>
-
 
 
 ## Internal Forces
