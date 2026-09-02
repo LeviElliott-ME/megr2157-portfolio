@@ -15,7 +15,7 @@ For assignment we were given a task of designing and modeling a 3D truss that fo
 
 Our requirements are based off of this image.
 
-<img width="350" height="250" alt="image" src="https://github.com/user-attachments/assets/45ee35bf-2ed4-453b-b577-758a4911d123" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/45ee35bf-2ed4-453b-b577-758a4911d123" />
 
  
 
