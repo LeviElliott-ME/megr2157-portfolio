@@ -14,6 +14,7 @@ For assignment we were given a task of designing and modeling a 3D truss that fo
 - Document the truss design process, calculations, and an analysis of your reasoning.
 
 Our requirements/constraints are based off of this image.
+
 <img width="286" height="185" alt="image" src="https://github.com/user-attachments/assets/45ee35bf-2ed4-453b-b577-758a4911d123" />
 
  
