@@ -28,7 +28,7 @@ https://www.octalsteel.com/resources/astm-a500-grade-c-pipe/
 ## My Truss Design/Analyze
 
 <div align="center">
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d713607c-fbc6-4cc5-a91b-79f3c654fafc" />
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/d713607c-fbc6-4cc5-a91b-79f3c654fafc" />
 </div>
 
 
