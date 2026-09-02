@@ -36,10 +36,14 @@ I choose this truss design because it was the first design I thought of when l w
 
 ## External Forces
 
+<div align="center">
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/efdc1dec-1be6-4150-98d5-07124e2145ae" />
+</div>
 
 
 
 ## Internal Forces
+
 
 
 ## Decide
