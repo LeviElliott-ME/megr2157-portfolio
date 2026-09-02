@@ -23,11 +23,14 @@ A500 structural steel grade C is a good choice for this assignment. This is beca
 
 https://www.octalsteel.com/resources/astm-a500-grade-c-pipe/
 
-## My Truss Design
+## My Truss Design/Analyze
 
 
 
-## Analyze
+
+
+
+
 
 
 ## Decide
