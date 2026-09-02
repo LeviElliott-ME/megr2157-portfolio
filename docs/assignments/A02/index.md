@@ -47,8 +47,9 @@ I choose this truss design because it was the first design I thought of when l w
 <div align="center">
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/207fdc83-5220-470c-b877-4ac384ff2c43" />
 </div>
-
-
+<div align="center">
+  <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/58c17a9f-693a-4cb4-9005-9c9c92595423" />
+</div>
 
 
 
