@@ -17,7 +17,7 @@ Our requirements are based off of this image.
 
 <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/45ee35bf-2ed4-453b-b577-758a4911d123" />
 
- 
+ A is a pin and B is a roller.  
 
 
 
