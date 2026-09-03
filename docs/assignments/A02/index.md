@@ -66,7 +66,9 @@ The next step is to calculate our cross-sectional area. To do this we use our hi
 
 The next step in designing our truss is to calculate the shear loads of the pins that will hold our truss members together.  
 
-
+<div align="center">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/d7035807-72fd-4384-a0c5-1e964c134dcc" />
+</div>
 
 
 
