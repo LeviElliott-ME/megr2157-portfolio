@@ -82,7 +82,9 @@ For my CAD design I had to use Plain Carbon Steel as my material. This is becaus
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/edec9ece-2c2e-4716-916a-4b8a2dda225b" />
 </div>
 
-
+<div align="center">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/62a78876-e5e2-482b-9658-5e3872fbb0e2" />
+</div>
 
 
 
