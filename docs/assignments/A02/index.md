@@ -88,11 +88,41 @@ These are my truss assembly specifications. These specifications can be used to 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/62a78876-e5e2-482b-9658-5e3872fbb0e2" />
 </div>
 
+## Engineering Lessons
+
+This assignment was beneficial to my learning in many ways. I have previously never completed an assignment similar to this one. I also have never applied so many given and solved values throughout an entire assignment. I have also never applied shear stress and yield strength through a problem like this one. This made me realize how engineers solve problems like this in there day to day life. It had been all summer since I last used solid works. With that being said it took me a while to get familiar with it again. I also have never applied safety factor quite like I had to in this truss assignment. This assignment took me a total of about 11 hours. I made the mistake of waiting to complete this assignment. Which made me work hours at a time on it. I realized I need to be better with time management.
+
+## Likelihood of Failure Modes in Truss Components
+
+**Truss Members**
+Tension members: EC, AB, and BC likely to fail because of tensile yielding. 
+Compression members: ED, AC, and DC likely to fail becuase of buckling.
+Zero force member: DB no failure likely
+
+**Material**
+A500 steel can fail from bending.
+
+**Stress Comparison**
+Compression members under compressive forces are likely to buckle when force surpasses the yield strength. 
+Tension members under a tension force are likely to fracture.
+
+**Modifications**
+For members that are in compression shorten the member this will make it harder to buckle.
+For members that are in tension increase cross-sectional area which will make the member less likely to fracture.
+
+## Likelihood of Failure Modes in Pin Connections
+
+**pins**
+A likelihood of fail from a pin is shearing at cross-section as stated in the assignment.
+
+**Modifications**
+A modification that would strengthen a pin is to increase the diameter. This would make the pin bigger and harder to shear.
+
+##CAD Models
 
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
-## Communicate
+
+
 
