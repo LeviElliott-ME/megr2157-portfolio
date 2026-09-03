@@ -66,7 +66,9 @@ The next step is to calculate our cross-sectional area. To do this we use our hi
 
 The next step in designing our truss is to calculate the shear loads of the pins that will hold our truss members together. I solved for the area using the safety factor of 4 and the shear strength 170ksi that was provided. The density value was also provided 0.278 lb/in^3. I used 20kN as my maximum shear force. This was my largest force that was acting on pin B and D. I calculated 68.3mm^2 which is needed to safety support my truss. I then used the value to find my pin diameter. Then I found the total weight of my pins. Using a value of 25mm long pins.  
 
-
+<div align="center">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/17d6ff90-f7ae-44d2-bacc-5004d7165021" />
+</div>
 
 
 
