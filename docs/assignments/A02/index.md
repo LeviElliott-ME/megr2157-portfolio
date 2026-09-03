@@ -54,6 +54,17 @@ Then, I solved for my internal forces. To do this I used the external forces tha
   <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/58c17a9f-693a-4cb4-9005-9c9c92595423" />
 </div>
 
+## Cross-Sectional Area
+
+The next step is to calculate our cross-sectional area. To do this we use our highest force member with for me is 16.02kN. We also have to use our safety factor of 3.5. Then, we also have to use the yield strength of our material which is 315MPa. I created an equation to find the cross-sectional area symbolically first. Then I plugged in my known numbers. This gave me my minimum cross-sectional are of 178mm^2. Then we have to find the weight of the truss. I did so by adding all of the lengths together. Then multiplying the total to the minimum cross-sectional area that we calculated. I found the mass in kg then I converted it into newtons.
+
+
+
+## Pin Calculations
+
+The next step in designing our truss is to calculate the shear loads of the pins that will hold our truss members together.  
+
+
 
 
 
