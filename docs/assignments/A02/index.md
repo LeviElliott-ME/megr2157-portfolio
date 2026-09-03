@@ -70,6 +70,8 @@ The next step in designing our truss is to calculate the shear loads of the pins
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/17d6ff90-f7ae-44d2-bacc-5004d7165021" />
 </div>
 
+## CAD Design
+
 
 
 ## Decide
