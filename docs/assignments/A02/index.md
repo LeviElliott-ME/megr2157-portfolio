@@ -75,10 +75,12 @@ The next step in designing our truss is to calculate the shear loads of the pins
 For my CAD design I had to use Plain Carbon Steel as my material. This is because solid works does not have A500 structure steel as a material. First I had to design the different truss members separately with the part model feature in solid works. While maintaining all of the given and calculated measurements. Then I had to design my pins. These are what hold the different truss members together. Then I put all of the truss members and pins together using the assembly feature in solid works to complete my final truss design.
 
 <div align="center">
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/bf78f22f-e610-48e1-b7f6-0303ad711d35" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/bf78f22f-e610-48e1-b7f6-0303ad711d35" />
 </div>
 
-
+<div align="center">
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/edec9ece-2c2e-4716-916a-4b8a2dda225b" />
+</div>
 
 
 
