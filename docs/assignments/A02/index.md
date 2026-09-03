@@ -118,7 +118,7 @@ A likelihood of fail from a pin is shearing at cross-section as stated in the as
 **Modifications**
 A modification that would strengthen a pin is to increase the diameter. This would make the pin bigger and harder to shear.
 
-##CAD Models
+## CAD Models
 
 
 
