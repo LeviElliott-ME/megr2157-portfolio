@@ -30,7 +30,7 @@ First I opened up a new part in solid sorks. Then the next step I did was to edi
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/5a2dbbb3-c534-412f-b73e-1baedb091f86" />
 </div>
 
-
+Then, the next step I did was to create a circle from the origin. To do so I created a new sketch on the front plane. From there I selected a circle from the top tool bar and clicked on the origin to create the circle from the origin. The next step was to assign my diameter. To do this I selected smart dimensions. Then I pressed the equals sign to pull the diameter from my equations table.
 
 <div align="center">
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/469695de-91b6-4cf4-9241-33cca61a32be" />
