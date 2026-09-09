@@ -26,7 +26,6 @@ With the given values and my choice of a 1in diameter for the aluminum bar I fou
 
 First I opened up a new part in solid sorks. Then the next step I did was to edit the equations tab on the left. This is where I entered in all of my values. For area and length I entered the formulas. Doing this caused solid works to do the calculations to find the length and area with my given values. Also, this helped me to check my work.
 
-
 <div align="center">
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/5a2dbbb3-c534-412f-b73e-1baedb091f86" />
 </div>
