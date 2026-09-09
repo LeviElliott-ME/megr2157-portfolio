@@ -11,7 +11,6 @@ Example Image
 </div>
 
 ## Design Process
-**Design Calculations**
 
 <div align="center">
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ebdc1261-ed36-4529-a011-891bc3f47bdd" />
