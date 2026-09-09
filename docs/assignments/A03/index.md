@@ -24,12 +24,13 @@ With the given values and my choice of a 1in diameter for the aluminum bar I fou
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/55807f86-9ea6-4863-a5ac-11a9aa32649a" />
 </div>
 
+<div align="center">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5a2dbbb3-c534-412f-b73e-1baedb091f86" />
+</div>
 
+<div align="center">
 
-
-
-
-
+</div>
 
 ## Decide
 
