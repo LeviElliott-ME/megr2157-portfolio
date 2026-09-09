@@ -19,7 +19,7 @@ Example Image
 
 With the given values and my choice of a 1in diameter for the aluminum bar I found the length that is needed. It must be a length of 141.372in to withstand a max axial deflection of 0.009in and a tensile load of 500lb. I calculated the length by finding the cross-sectional area of the bar. Then, I pugged in my values into the direct elongation equation to find my overall length.
 
-
+## CAD Design
 
 
 
