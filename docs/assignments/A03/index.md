@@ -29,7 +29,7 @@ With the given values and my choice of a 1in diameter for the aluminum bar I fou
 </div>
 
 <div align="center">
-
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/469695de-91b6-4cf4-9241-33cca61a32be" />
 </div>
 
 ## Decide
