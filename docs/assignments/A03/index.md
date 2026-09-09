@@ -20,6 +20,14 @@ With the given values and my choice of a 1in diameter for the aluminum bar I fou
 
 ## CAD Design
 
+<div align="center">
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/55807f86-9ea6-4863-a5ac-11a9aa32649a" />
+</div>
+
+
+
+
+
 
 
 
