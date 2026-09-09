@@ -7,7 +7,7 @@ For this weeks assignment we are tasked with designing an aluminum metal bar par
 Example Image
 
 <div align="center">
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/86c404a7-d8b8-4cfd-bf7c-b4f44265b845" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/86c404a7-d8b8-4cfd-bf7c-b4f44265b845" />
 </div>
 
 
