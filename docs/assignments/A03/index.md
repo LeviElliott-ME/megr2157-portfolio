@@ -74,7 +74,7 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/125a055e-73cb-43d2-ac3f-7d2aa797db6f" />
 </div>
 
-## My Calculations Compared To FEA
+## Design Reflection
 
 <div align="center">
  <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/54e3ccaa-abff-4e06-95c3-750650f73c84" />
@@ -84,7 +84,11 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/4826d152-e510-4b66-bdad-796b69711ad2" />
 </div>
 
-## Decide
+## 
+
+
+
+
 
 
 ## Communicate
