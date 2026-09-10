@@ -65,7 +65,7 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 **Von Mises Stress Map** 
 
 <div align="center">
-<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/b53a85ca-4917-47bb-af08-eb2b41db3f2c" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/6cf2b444-5d05-4d70-a1a7-8774162a4a13" />
 </div>
 
 **Deflection Map**
