@@ -42,7 +42,7 @@ Lastly, making the actual rod from the circle we have to extrude. I did this by 
 <img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/4d25fa87-1251-4afe-b3d7-18733f57be32" />
 </div>
 
-For the material I made a custom aluminum material property
+For the material I made a custom aluminum material property that has a elastic modulus of 10*10^6.
 
 
  
