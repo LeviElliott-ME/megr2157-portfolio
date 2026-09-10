@@ -81,7 +81,7 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 </div>
 
 <div align="center">
-
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4826d152-e510-4b66-bdad-796b69711ad2" />
 </div>
 
 ## Decide
