@@ -102,4 +102,4 @@ When we edit the load, thickness, height, and width. While keeping the part mate
 
 ## CAD Link
 
-
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQAUrnS19uWPRpDf1m8ArgcoAag2iGi36tti3KDxNlD9EuU?e=tgwSlk
