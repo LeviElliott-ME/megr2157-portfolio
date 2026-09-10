@@ -47,23 +47,23 @@ For the material I made a custom aluminum material property that has a elastic m
 ## FEA Analysis
  
 <div align="center">
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/7f1f6de1-b6c9-4062-9ea9-99e89dcb0d65" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/7f1f6de1-b6c9-4062-9ea9-99e89dcb0d65" />
 </div>
 
 <div align="center">
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/ba577c44-9bef-4930-85a2-d70d2c20a7bc" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/ba577c44-9bef-4930-85a2-d70d2c20a7bc" />
 </div>
 
 <div align="center">
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/9b029ef8-61bc-4683-873b-ae58f7e30137" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/9b029ef8-61bc-4683-873b-ae58f7e30137" />
 </div>
 
 <div align="center">
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/b53a85ca-4917-47bb-af08-eb2b41db3f2c" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/b53a85ca-4917-47bb-af08-eb2b41db3f2c" />
 </div>
 
 <div align="center">
-<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/f4fb9466-a3b8-46b3-bfe4-3b013b1aab46" />
+<img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/f4fb9466-a3b8-46b3-bfe4-3b013b1aab46" />
 </div>
 
 
