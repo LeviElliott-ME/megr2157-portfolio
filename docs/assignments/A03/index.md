@@ -44,7 +44,7 @@ Lastly, making the actual rod from the circle we have to extrude. I did this by 
 
 For the material I made a custom aluminum material property that has a elastic modulus of 10*10^6.
 
-
+## FEA Analysis
  
 
 
