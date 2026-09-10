@@ -45,6 +45,8 @@ Lastly, making the actual rod from the circle we have to extrude. I did this by 
 For the material I made a custom aluminum material property that has a elastic modulus of 10*10^6.
 
 ## FEA Analysis
+
+Then, under the simulation tap I created a new study. This allows us to run a simulation on our aluminum bar. I added a fixed end to one side of my bar using the fixture tool. I then applied a force of 500lbf On the other side of the bar using the force tool. When adding the force you have to make sure that the force is in the correct direction. If not there is a "reverse direction" button. 
  
 <div align="center">
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/7f1f6de1-b6c9-4062-9ea9-99e89dcb0d65" />
@@ -57,6 +59,8 @@ For the material I made a custom aluminum material property that has a elastic m
 <div align="center">
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/9b029ef8-61bc-4683-873b-ae58f7e30137" />
 </div>
+
+After I applied the fixed end and the force end of the bar I meshed and ran my bar simulation. This gives us a von Mises Stress map and a deflection map. 
 
 <div align="center">
 <img width="850" height="450" alt="image" src="https://github.com/user-attachments/assets/b53a85ca-4917-47bb-af08-eb2b41db3f2c" />
