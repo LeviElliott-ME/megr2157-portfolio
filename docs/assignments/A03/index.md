@@ -87,10 +87,10 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 Once I completed the von mises stress map and the deflection stress map, I made sure that my maximum stress was lower than the maximum stress of our aluminum. I then calculated the safety factor. I did this by taking the safety factor of aluminum 40 ksi and dividing it by my FEA maximum stress which was 7.028e-01 ksi. This gave me the safety factor of 56.92. Then I calculated the difference between the FEA max deflection and the given max deflection. This gave me a percentage difference of 0.278%. This tells me that my two values are very close. I would believe more in my hand calculations more than the FEA. This is because you can not see exactly the FEA is getting the values.
 
 <div align="center">
-
+<img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/4bc9097f-decc-4854-8383-ec3a8472120b" />
 </div>
 
-
+For the pin hole connection we are tasked to see if it would pass the safety factor. After finding the safety factor of the pin hole mine passes.
 
 
 ## Communicate
