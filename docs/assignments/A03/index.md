@@ -39,7 +39,7 @@ Then, the next step I did was to create a circle from the origin. To do so I cre
 Lastly, making the actual rod from the circle we have to extrude. I did this by selecting extrude from the tool bar at the top of solid works. Then with that selected I had to add the length I needed the extrusion to be. To do so at the left side of the screen. In the dimension blank box I entered "Length" this pulls the calculated length value from the equations table. 
 
 <div align="center">
-
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/4d25fa87-1251-4afe-b3d7-18733f57be32" />
 </div>
 
 For the material I made a custom aluminum material property
