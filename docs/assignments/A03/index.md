@@ -76,6 +76,11 @@ After I applied the fixed end and the force end of the bar I meshed and ran my b
 
 ## My Calculations Compared To FEA
 
+<div align="center">
+ 
+</div>
+
+
 
 
 ## Decide
