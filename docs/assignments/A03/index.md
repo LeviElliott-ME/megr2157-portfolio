@@ -59,7 +59,7 @@ For the material I made a custom aluminum material property that has a elastic m
 </div>
 
 <div align="center">
-
+<img width="750" height="550" alt="image" src="https://github.com/user-attachments/assets/b53a85ca-4917-47bb-af08-eb2b41db3f2c" />
 </div>
 
 <div align="center">
