@@ -92,6 +92,14 @@ Once I completed the von mises stress map and the deflection stress map, I made 
 
 For the pin hole connection we are tasked to see if it would pass the safety factor. After finding the safety factor of the pin hole mine passes.
 
+## Lessons Learned
 
-## Communicate
+Throughout this project I learned many different components of solid works. I learned how to do a part study (FEA). This can be very helpful for engineers. This is because it can tell us the stress, strain, and displacement of a part. This is very important when it comes to designing. This feature allows us to know whether a design will pass our requirements or not. This assignment took me 5 hours. 
+
+## Modify Design Parameters
+
+When we edit the load, thickness, height, and width. While keeping the part material the same. I predict that when I increase the load and height that the length will increase.
+
+## CAD Link
+
 
