@@ -16,8 +16,11 @@ https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-
 
 ## Material
 
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/4eb76616-5425-44bf-bda0-3bca3b7c2027" />
+This is more information I found about my chosen ABS material. In my materials elastic modulus range I chose the value of 2,000MPa. Then for the Yield strength range I chose a value of 40MPa. 
 
+<div align="center">
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/4eb76616-5425-44bf-bda0-3bca3b7c2027" />
+</div>
 
 
 ## Analyze
