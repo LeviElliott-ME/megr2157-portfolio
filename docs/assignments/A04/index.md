@@ -42,7 +42,10 @@ For the second feature of the motor mount I listed my knowns and unknowns. This 
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/c5c7ce28-faf7-43c7-a9ef-7b525d15b4b9" />
 </div>
 
-## Decide
+## Isometric Drawing Sketch
+
+Once I found all of my needed values I created a drawing sketch of my motor mount with values
+
 
 
 ## Communicate
