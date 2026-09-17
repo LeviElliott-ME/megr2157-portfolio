@@ -46,7 +46,9 @@ For the second feature of the motor mount I listed my knowns and unknowns. This 
 
 Once I found all of my needed values I created a drawing sketch of my motor mount with values
 
-
+<div align="center">
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/7a16937e-cef9-42e8-be2f-105b563326b4" />
+</div>
 
 ## Communicate
 
