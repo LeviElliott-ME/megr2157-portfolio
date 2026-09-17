@@ -64,7 +64,7 @@ My next set was to sketch the holes. I did this by sketching four circles then a
 <img width="550" height="350" alt="Screenshot 2026-09-16 213525" src="https://github.com/user-attachments/assets/f0b64b46-3044-44bf-bfb3-95d91b2bfd8a" />
 </div>
 
-
+Once I finished the sketch it gave me a part that looked like this.
 
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 213735" src="https://github.com/user-attachments/assets/93ed339a-8e01-4b94-add2-def15f0261ef" />
