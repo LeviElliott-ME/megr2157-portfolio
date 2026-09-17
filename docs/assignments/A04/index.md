@@ -27,7 +27,7 @@ This is more information I found about my chosen ABS material. In my materials e
 For my first feature I listed my knowns and unknowns. This helped me identify the values I have and the values I needed to find. The first feature was the feature that the motor fits onto. I created a free body diagram of feature one. I used equations from class and symbolically solved to find the equation needed. Then, I solved from the cross-sectional area. I did this by solving for my max normal stress. I used that values and my other known values to find "b" under stress. Once I found my stress I then solved for deflection. After I found both of my values I found that my value for stress was larger then my deflection value. This means that my stress value was my ultimate value b1=4.463mm. 
 
 <div align="center">
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/9940d3c9-7368-4ba8-8a53-4db2a5e9cdf8" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/9940d3c9-7368-4ba8-8a53-4db2a5e9cdf8" />
 </div>
   
   ## Analyze
