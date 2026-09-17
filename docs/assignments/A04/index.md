@@ -110,6 +110,11 @@ https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQC-6JaQjAybRIXY7hvJ4KuiAY8yL29YwCh9f6yIhMi
 **Drawing**
 https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQA9MG37hEUEQYvl3q4evTYnAfzrclJ4HJu7lzff3jmQDYM?e=veT8or
 
+## Lesson Learned
 
+During this assignment I learned that I need to study my formulas. This is because it had taken me a while to come up with the formulas to use. I also learned that I was rusty navigating through solid works drawings. This caused it to take long then I expected.
 
+## Completion Time
+
+This assignment has taken me around 8 hours to complete.
 
