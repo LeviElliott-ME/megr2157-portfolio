@@ -112,7 +112,7 @@ https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQA9MG37hEUEQYvl3q4evTYnAfzrclJ4HJu7lzff3jm
 
 ## Lesson Learned
 
-During this assignment I learned that I need to study my formulas. This is because it had taken me a while to come up with the formulas to use. I also learned that I was rusty navigating through solid works drawings. This caused it to take long then I expected.
+During this assignment I learned that I need to study my formulas. This is because it had taken me a while to come up with the formulas to use. I also learned that I was rusty navigating through solid works drawings. This caused it to take longer than I expected.
 
 ## Completion Time
 
