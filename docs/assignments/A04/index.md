@@ -96,8 +96,19 @@ This is my final CAD design for my motor mount.
 
 ## 2157 Students
 
+Where were tasked to make a drawing of our motor mounts. I did so with the right view, front view, top view, and isometric view. I added in my dimensions also. 
 
+<div align="center">
+<img width="550" height="350" alt="Screenshot 2026-09-17 003951" src="https://github.com/user-attachments/assets/e6c0995b-8afd-4f48-b519-052f15e1440d" />
+</div>
 
+## CAD File
+
+**Part**
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQC-6JaQjAybRIXY7hvJ4KuiAY8yL29YwCh9f6yIhMiubtM?e=fDQgq7
+
+**Drawing**
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQA9MG37hEUEQYvl3q4evTYnAfzrclJ4HJu7lzff3jmQDYM?e=veT8or
 
 
 
