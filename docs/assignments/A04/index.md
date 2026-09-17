@@ -52,3 +52,7 @@ Once I found all of my needed values I created a drawing sketch of my motor moun
 
 ## CAD Motor Mount Model
 
+<div align="center">
+<img width="550" height="350" alt="Screenshot 2026-09-16 213030" src="https://github.com/user-attachments/assets/a074e106-4d84-428d-b116-082da8b8ffb0" />
+</div>
+
