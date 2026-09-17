@@ -58,7 +58,7 @@ First I created my base model, which for me was feature number 2. I then entered
 <img width="550" height="350" alt="Screenshot 2026-09-16 213030" src="https://github.com/user-attachments/assets/a074e106-4d84-428d-b116-082da8b8ffb0" />
 </div>
 
-My next set was to sketch the holes. I did this by sketching four circles then adding my dimensions. since I wanted my holes to be 2mm away from the edge of the feature I found my radius from my diameter of 3.4mm. Which is 1.7mm then I added 2mm to that this gave me a value of 3.7mm from the center of my circle to the edge of the feature. Since I started with feature two and wanted to build feature one from it I had to make the bottom of my feature 8.163mm from the center of the bottom holes. I found this value by taking my value stated before of 3.7mm and adding my b1 value of 4.463mm. I did this because that is how think my second feature needs to be and I still wanted my holes 2mm away from the edge.
+My next set was to sketch the holes. I did this by sketching four circles then adding my dimensions. since I wanted my holes to be 2mm away from the edge of the feature I found my radius from my diameter of 3.4mm. Which is 1.7mm then I added 2mm to that this gave me a value of 3.7mm from the center of my circle to the edge of the feature. Since I started with feature two and wanted to build feature one from it I had to make the bottom of my feature 8.163mm from the center of the bottom holes. I found this value by taking my value stated before of 3.7mm and adding my b1 value of 4.463mm. I did this because that is how think my second feature needs to be and I still wanted my holes 2mm away from the edge. Lastly I extruded the feature to my calculated value of b2=1.311mm.
 
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 213525" src="https://github.com/user-attachments/assets/f0b64b46-3044-44bf-bfb3-95d91b2bfd8a" />
@@ -70,17 +70,25 @@ Once I finished the sketch it gave me a part that looked like this.
 <img width="550" height="350" alt="Screenshot 2026-09-16 213735" src="https://github.com/user-attachments/assets/93ed339a-8e01-4b94-add2-def15f0261ef" />
 </div>
 
+Then from the bottom I extruded out 26.689mm. This is because my b2 value equals 1.311mm and I want my overall length to be 28mm. Then I extruded up by my b1 value of 4.463mm.
+
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 213921" src="https://github.com/user-attachments/assets/f2b7e06f-ea42-41a7-a07c-59e8308d183d" />
 </div>
+
+Then I created my same holes for my new feature one that I previously made for feature two. Then I had to make the center indent and hole for my motor to sit in and the shaft to fit through. The diameter of the large circle was 18mm and I made it a depth of 2mm. Then I made the hole for the shaft to go through. The shaft hole needed to be 6mm.
 
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 215017" src="https://github.com/user-attachments/assets/9d78825a-1fca-4dab-943b-e4a4b9cf072e" />
 </div>
 
+I decided to design two supports on either side of the motor mount to prevent bending. I created them using a right triangle with a height of 12mm. A base of 9mm and a hypotenuse value of 15mm. I then extruded them 1mm. 
+
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 215744" src="https://github.com/user-attachments/assets/2e059a19-ce49-4ffb-9358-a7e3b11730be" />
 </div>
+
+This is my final CAD design for my motor mount.
 
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 215957" src="https://github.com/user-attachments/assets/1c0d2cd1-2ab1-4f44-901a-f3ea927f1963" />
