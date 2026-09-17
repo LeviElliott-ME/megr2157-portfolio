@@ -29,6 +29,10 @@ For my first feature I listed my knowns and unknowns. This helped me identify th
 <div align="center">
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/9940d3c9-7368-4ba8-8a53-4db2a5e9cdf8" />
 </div>
+
+<div align="center">
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/7b245fc2-0de0-4941-9c8a-06aba4714805" />
+</div>
   
   ## Analyze
 
