@@ -24,7 +24,7 @@ This is more information I found about my chosen ABS material. In my materials e
 
 ## Feature 1
 
-
+For my first feature I listed my knowns and unknowns. This helped me identify the values I have and the values I needed to find. The first feature was the feature that the motor fits onto.
 
 
 
