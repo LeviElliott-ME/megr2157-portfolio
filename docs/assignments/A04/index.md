@@ -38,7 +38,9 @@ For my first feature I listed my knowns and unknowns. This helped me identify th
 
 For the second feature of the motor mount I listed my knowns and unknowns. This feature will be attached to a wall. It also has 4 bolt holds. For these holes I spaced them 2mm from the side of the mount. I did this because I did not want the bolt heads to exceed over the side of the mount. I then created a free body diagram of the feature. This feature has a moment because the bottom of the feature was free to bending. I had to solve for cross-sectional area "b" due to stress and deflection. I found my equations symbolically to solve. These were my moment equation, stress equation, and deflection equation. I then found that my stress value was larger than my deflection value. This means that my stress value was my ultimate value for feature two b2=1.311mm 
 
-
+<div align="center">
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/c5c7ce28-faf7-43c7-a9ef-7b525d15b4b9" />
+</div>
 
 ## Decide
 
