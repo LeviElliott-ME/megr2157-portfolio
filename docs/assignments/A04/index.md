@@ -16,6 +16,7 @@ https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-
 
 ## Material
 
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/4eb76616-5425-44bf-bda0-3bca3b7c2027" />
 
 
 
