@@ -58,7 +58,7 @@ First I created my base model, which for me was feature number 2. I then entered
 <img width="550" height="350" alt="Screenshot 2026-09-16 213030" src="https://github.com/user-attachments/assets/a074e106-4d84-428d-b116-082da8b8ffb0" />
 </div>
 
-My next set was to sketch the holes. I did this by sketching four circles then adding my dimensions. since I wanted my holes to be 2mm away from the edge of the feature I found my radius from my diameter of 3.4mm. Which is 1.7mm then I added 2mm to that this gave me a value of 3.7mm from the center of my circle to the edge of the feature. Since I started with feature two and wanted to build feature one from it I had to make the bottom of my feature 8.163mm from the center of the bottom holes.
+My next set was to sketch the holes. I did this by sketching four circles then adding my dimensions. since I wanted my holes to be 2mm away from the edge of the feature I found my radius from my diameter of 3.4mm. Which is 1.7mm then I added 2mm to that this gave me a value of 3.7mm from the center of my circle to the edge of the feature. Since I started with feature two and wanted to build feature one from it I had to make the bottom of my feature 8.163mm from the center of the bottom holes. I found this value by taking my value stated before of 3.7mm and adding my b1 value of 4.463mm. I did this because that is how think my second feature needs to be and I still wanted my holes 2mm away from the edge.
 
 <div align="center">
 <img width="550" height="350" alt="Screenshot 2026-09-16 213525" src="https://github.com/user-attachments/assets/f0b64b46-3044-44bf-bfb3-95d91b2bfd8a" />
