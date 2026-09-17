@@ -24,7 +24,7 @@ This is more information I found about my chosen ABS material. In my materials e
 
 ## Feature 1
 
-For my first feature I listed my knowns and unknowns. This helped me identify the values I have and the values I needed to find. The first feature was the feature that the motor fits onto. I created a free body diagram of feature one. I used equations from class and symbolically solved to find the equation needed. Then, I solved from the cross-sectional area. I did this by solving for my max normal stress. I used that values and my other known values to find "b" under stress. Once I found my stress I then solved for deflection. After I found both of my values I found that my value for stress was larger then my deflection value. This means that my stress value was my ultimate value b1=4.463mm. 
+For my first feature I listed my knowns and unknowns. This helped me identify the values I have and the values I needed to find. The first feature was the feature that the motor fits onto. I created a free body diagram of feature one. For the four bolt holes I used the example diameter of d=3.4mm. I used equations from class and symbolically solved to find the equation needed. Then, I solved from the cross-sectional area. I did this by solving for my max normal stress. I used that values and my other known values to find "b" under stress. Once I found my stress I then solved for deflection. After I found both of my values I found that my value for stress was larger then my deflection value. This means that my stress value was my ultimate value b1=4.463mm. 
 
 <div align="center">
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/9940d3c9-7368-4ba8-8a53-4db2a5e9cdf8" />
@@ -34,7 +34,10 @@ For my first feature I listed my knowns and unknowns. This helped me identify th
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/7b245fc2-0de0-4941-9c8a-06aba4714805" />
 </div>
   
-  ## Analyze
+## Feature 2
+
+For the second feature of the motor mount I listed my knowns and unknowns. This feature will be attached to a wall. It also has 4 bolt holds. For these holes I spaced them 2mm from the side of the mount. I did this because I did not want the bolt heads to exceed over the side of the mount. I then created a free body diagram of the feature. This feature has a moment because the bottom of the feature was free to bending. I had to solve for cross-sectional area "b" due to stress and deflection. I found my equations symbolically to solve. These were my moment equation, stress equation, and deflection equation. I then found that my stress value was larger than my deflection value. This means that my stress value was my ultimate value for feature two b2=1.311mm 
+
 
 
 ## Decide
