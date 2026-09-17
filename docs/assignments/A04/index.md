@@ -61,23 +61,23 @@ Once I found all of my needed values I created a drawing sketch of my motor moun
 </div>
 
 <div align="center">
-
+<img width="550" height="350" alt="Screenshot 2026-09-16 213735" src="https://github.com/user-attachments/assets/93ed339a-8e01-4b94-add2-def15f0261ef" />
 </div>
 
 <div align="center">
-
+<img width="550" height="350" alt="Screenshot 2026-09-16 213921" src="https://github.com/user-attachments/assets/f2b7e06f-ea42-41a7-a07c-59e8308d183d" />
 </div>
 
 <div align="center">
-
+<img width="550" height="350" alt="Screenshot 2026-09-16 215017" src="https://github.com/user-attachments/assets/9d78825a-1fca-4dab-943b-e4a4b9cf072e" />
 </div>
 
 <div align="center">
-
+<img width="550" height="350" alt="Screenshot 2026-09-16 215744" src="https://github.com/user-attachments/assets/2e059a19-ce49-4ffb-9358-a7e3b11730be" />
 </div>
 
-
-
-
+<div align="center">
+<img width="550" height="350" alt="Screenshot 2026-09-16 215957" src="https://github.com/user-attachments/assets/1c0d2cd1-2ab1-4f44-901a-f3ea927f1963" />
+</div>
 
 
