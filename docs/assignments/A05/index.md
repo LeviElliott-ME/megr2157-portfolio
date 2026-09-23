@@ -5,7 +5,10 @@
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/151a791a-8843-4a61-b3b6-9477ba90e2c5" />
 </div>
 
-For this assignment we are making a mounting bracket with dimension guidelines to follow. We also get to choose a applied load between 500lbf < F < 800lbf. The value that I have chosen is 600lbf. We are given a safety factor of 4. Then I chose the material of 
+For this assignment we are making a mounting bracket with dimension guidelines to follow. We also get to choose a applied load between 500lbf < F < 800lbf. The value that I have chosen is 600lbf. We are given a safety factor of 4. Then I chose the material of Steel (ASTM A36). 
+
+## Assumption
+**For designing assume no failure due to direct shear stress.**
 
 ## Objectives
 
