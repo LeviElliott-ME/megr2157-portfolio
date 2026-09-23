@@ -36,6 +36,8 @@ I chose the material of (ASTM A36) Steel. I did so because of its strength and d
 
 Elastic modulus E = 29,000 ksi or 29,000,000 psi
 
+Max deflection= 0.005 in
+
 ## Analyze
 
 
