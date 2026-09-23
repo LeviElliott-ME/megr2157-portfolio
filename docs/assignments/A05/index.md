@@ -26,6 +26,14 @@ For this assignment we are making a mounting bracket with dimension guidelines t
 
 -Reflect on and document key engineering lessons learned throughout the process.
 
+## Material values
+
+I chose the material of (ASTM A36) Steel. I did so because of its strength and durability when using to design.
+
+(Yield Strength) σy = 36,000 psi
+
+Elastic modulus E = 29,000 ksi or 29,000,000 psi
+
 ## Analyze
 
 
