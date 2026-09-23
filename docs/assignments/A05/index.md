@@ -1,7 +1,7 @@
 # A5 – Bracket design
 
 ## Bracket design description
-
+<div align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/151a791a-8843-4a61-b3b6-9477ba90e2c5" />
 
 ## Objectives
