@@ -4,6 +4,9 @@
 <div align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/151a791a-8843-4a61-b3b6-9477ba90e2c5" />
 </div>
+
+For this assignment we are making a mounting bracket with dimension guidelines to follow. We also get to choose a applied load between 500lbf < F < 800lbf. The value that I have chosen is 600lbf. We are given a safety factor of 4. Then I chose the material of 
+
 ## Objectives
 
 -Conduct stress analysis to determine appropriate dimensions for structural features.
