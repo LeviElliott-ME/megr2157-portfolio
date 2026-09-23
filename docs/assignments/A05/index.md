@@ -32,6 +32,8 @@ I chose the material of (ASTM A36) Steel. I did so because of its strength and d
 
 (Yield Strength) σy = 36,000 psi
 
+σ_allow = σy / SF = 36,000 / 4 = 9,000 psi
+
 Elastic modulus E = 29,000 ksi or 29,000,000 psi
 
 ## Analyze
