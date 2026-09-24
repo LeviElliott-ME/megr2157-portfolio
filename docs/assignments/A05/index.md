@@ -38,11 +38,35 @@ Elastic modulus E = 29,000 ksi or 29,000,000 psi
 
 Max deflection= 0.005 in
 
-## Analyze
+## Feature A
+
+Starting off with feature A I listed my known and unknown values. Then I stated my assumptions and made a F.B.D I then obtained all of the values that I needed in order to calculate the stress and stiffness of the feature. I solved algebraically first this helps out a lot. This is because if you solve this way first, then all that you have to do is plug in your values into your equation to get the answer that you are looking for. I then solved numerically this gave me my d_A(stress) = 1.268in and d_A(stiff) = 0.933in. 
 
 
-## Decide
+
+## Feature B
+
+For feature B I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of t_B(stress) = 0.1026in and t_B(stiff) = 0.07639in
 
 
-## Communicate
+
+## Feature C
+
+For feature C I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of h_C(stress) = 0.4472in and h_C(stiff) = 0.2347in
+
+
+
+## Feature D
+
+For feature D I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of w_D(stress) = 0.0222in and w_D(stiff) = 0.0103in
+
+
+
+## Feature E
+
+For feature E I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of h_E(stress) = 0.447in and h_E(stiff) = 0.3663in
+
+
+
+
 
