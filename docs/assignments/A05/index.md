@@ -93,5 +93,26 @@ We are tasked with creating Multiview drawings of the assembly of our features. 
 <img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/e7c5b822-e8a0-4e3b-b1ec-cae8bbd72243" />
 </div>
 
+## Lessons leanred
 
+During this assignment I learned that all of my features governing dimension were the stress dimensions. This was because they were always larger values. With that being said you have to design with the governing dimension. I also learned that it is challenging sometimes to create the correct equation to find the value that you are solving for. This is were I spent most of my time on this assignment. It was also challenging to create the Multiview drawings by hand. This is because of the dimensions and the locations that they have to represent. 
+
+**Governing Failure Mode**
+
+For all of my features the governing mode was the stress value. For example, feature A's diameter stress value equals 1.268in. The diameter stiffness value equals 0.933in. This is a different of 0.335 inches.
+
+**Error Propagation**
+
+A instance where a value from one feature carried on to another feature is feature A to feature B. My calculated value of d_A(stress) = 1.268in, rounded to 1.3in from feature A carried on to feature B to calculate t_B(stress) and t_B(stiff).
+
+## Assumption Sensitivity
+
+One thing that I assumed that could change my final dimensions was load distribution. On all of the features I assumed the load distribution if I assumed this wrong this could make my final dimensions wrong. This is because it would change how I set up my equations.
+
+## 2157 Students
+
+1.
+<div align="center">
+
+</div>
 
