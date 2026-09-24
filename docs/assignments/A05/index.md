@@ -123,7 +123,7 @@ One thing that I assumed that could change my final dimensions was load distribu
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0f56ae32-e458-4d2b-9b4f-64edee53512b" />
 </div>
 
 
