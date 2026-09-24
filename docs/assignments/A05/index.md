@@ -133,6 +133,11 @@ For the 1 inch shaft I will use the H7 hole. The manufacturing process will be r
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0f56ae32-e458-4d2b-9b4f-64edee53512b" />
 </div>
 
+## Time
+
+This assignment as taken me about 8 hours.
+
+
 
 
 
