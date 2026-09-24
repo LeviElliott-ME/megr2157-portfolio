@@ -111,12 +111,19 @@ One thing that I assumed that could change my final dimensions was load distribu
 
 ## 2157 Students
 
-1.
+**1.**
+
 <div align="center">
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/86a6e229-7382-48f6-aa37-a6468f4b2bd9" />
 </div>
 
-2. 
+**2.**
+
+Using the Machinery's Handbook volume 32. With consideration that this feature was designed with Runnings/Sliding fit. From the value that I calculated I am choosing a Class RC 4 Fit. With tolerances from the H8 hole. These charts are from page 645 in the book. The manufacturing process for this part is precision reaming, grinding, and broaching.
+
+**3.**
+
+For the 1 inch shaft I will use the H7 hole. The manufacturing process will be reaming or broaching.
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3bf4d5e4-fc3b-4d43-ad2b-e5861f1422ea" />
