@@ -45,6 +45,9 @@ Starting off with feature A I listed my known and unknown values. Then I stated 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3302d66d-f264-46f8-8c77-6907606628d4" />
 </div>
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9a1a934a-cc44-497e-b93c-2246aed74895" />
+</div>
 
 ## Feature B
 
