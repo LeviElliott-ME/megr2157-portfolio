@@ -90,7 +90,7 @@ We are tasked with creating Multiview drawings of the assembly of our features. 
 </div>
 
 <div align="center">
-
+<img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/e7c5b822-e8a0-4e3b-b1ec-cae8bbd72243" />
 </div>
 
 
