@@ -78,7 +78,7 @@ For feature D I listed known and unknown values. Stated my assumptions and made 
 For feature E I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of h_E(stress) = 0.447in and h_E(stiff) = 0.3663in
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4bdffc0a-2dbe-416a-8f0f-52632aa09e67" />
 </div>
 
 
