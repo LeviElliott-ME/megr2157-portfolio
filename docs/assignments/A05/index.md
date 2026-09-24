@@ -61,7 +61,9 @@ For feature B I listed known and unknown values. Stated my assumptions and made 
 
 For feature C I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of h_C(stress) = 0.4472in and h_C(stiff) = 0.2347in
 
-
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/441795d4-8952-4de6-a621-b0c31b223501" />
+</div>
 
 ## Feature D
 
