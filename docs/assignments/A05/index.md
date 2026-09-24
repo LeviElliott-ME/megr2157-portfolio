@@ -53,7 +53,9 @@ Starting off with feature A I listed my known and unknown values. Then I stated 
 
 For feature B I listed known and unknown values. Stated my assumptions and made a F.B.D. I obtained all of my values needed to calculate for stress and stiffness. First solving algebraically then solving numerically. This gave me my values of t_B(stress) = 0.1026in and t_B(stiff) = 0.07639in
 
-
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9aa1e592-6612-4b33-abd4-0bc51e03e62f" />
+</div>
 
 ## Feature C
 
