@@ -86,7 +86,7 @@ For feature E I listed known and unknown values. Stated my assumptions and made 
 We are tasked with creating Multiview drawings of the assembly of our features. With our stress and stiffness dimensions.
 
 <div align="center">
-
+<img width="450" height="550" alt="image" src="https://github.com/user-attachments/assets/0f6452f7-34ca-49fc-b8ce-40e3e7ca84b8" />
 </div>
 
 <div align="center">
