@@ -42,7 +42,9 @@ Max deflection= 0.005 in
 
 Starting off with feature A I listed my known and unknown values. Then I stated my assumptions and made a F.B.D I then obtained all of the values that I needed in order to calculate the stress and stiffness of the feature. I solved algebraically first this helps out a lot. This is because if you solve this way first, then all that you have to do is plug in your values into your equation to get the answer that you are looking for. I then solved numerically this gave me my d_A(stress) = 1.268in and d_A(stiff) = 0.933in. 
 
-
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3302d66d-f264-46f8-8c77-6907606628d4" />
+</div>
 
 ## Feature B
 
