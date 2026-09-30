@@ -6,7 +6,7 @@ The objectives for this weeks assignment is to generate a comprehensive solid mo
 
 ## Parametric design
 
-Before I start my CAD design I need to set up my parametric values. I have taken my calculated stress values from the A5 assignment. I will round my values to make then simpler. 
+Before I start my CAD design I need to set up my parametric values. I have taken my calculated stress values from the A5 assignment.
 
 ## Decide
 
