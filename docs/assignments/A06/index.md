@@ -14,19 +14,27 @@ Before I start my CAD design I need to set up my parametric values. I have taken
 
 ## CAD Design
 
+We now have to make a CAD design of our part. I started with feature A and when in order to feature E. The dimensions for each feature I obtained from my parametric values table.
 
+**Feature A**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/49434637-5b0a-4b8f-9705-45f8cbbcd024" />
 </div>
 
+**Feature B**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/18f09355-82c9-451f-b8dc-c47947196ea0" />
 </div>
 
+**Feature C**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/94eddee1-0254-4fad-922b-3ddbe60a9b7f" />
 </div>
+
+
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dcf4e879-04e2-4269-9384-acab06c8928a" />
