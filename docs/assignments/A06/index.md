@@ -82,7 +82,7 @@ The total time that I spent on this assignment was about 4 hours.
 
 ## 2157 Students
 
-We are tasked to create a link that will fit our bracket design. For the measurements of this part I am using my calculated stress values.
+We are tasked to create a link that will fit our bracket design. For the measurements of this part I am using my calculated stress values. We also are using the values that we previously found in assignment A5. The diameters of the link were chosen from shaft diameters found. We previously found the thickness of the link also. All of these values were added in the parameters table. First step was to make a sketch of the link with our dimensions. Then I extruded to the thickness needed. After that I rounded the edges to give it the link look. The next step was to create a drawing of the link. I did this in landscape A. I applied the third angle of projection. Then I gave the link its dimensions and the tolerances. What I learned from this was that you have to make sure that your part to part fit using tolerances. This is because if they are off it will be to lose or will not fit. So to do this you have to make sure that both of your parts have this taken into consideration. 
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/22c7e115-adc9-4e87-a82d-4ba5639d15cb" />
@@ -100,5 +100,5 @@ We are tasked to create a link that will fit our bracket design. For the measure
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/09ed183f-1e5c-4e3f-aea9-a6fcc16bbf5f" />
 </div>
 
-
+## CAD files
 
