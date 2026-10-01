@@ -85,11 +85,11 @@ The total time that I spent on this assignment was about 4 hours.
 We are tasked to create a link that will fit our bracket design. For the measurements of this part I am using my calculated stress values.
 
 <div align="center">
-<img width="1329" height="822" alt="image" src="https://github.com/user-attachments/assets/22c7e115-adc9-4e87-a82d-4ba5639d15cb" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/22c7e115-adc9-4e87-a82d-4ba5639d15cb" />
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7f508df3-2fc7-44b0-b83b-4653bf64a727" />
 </div>
 
 <div align="center">
