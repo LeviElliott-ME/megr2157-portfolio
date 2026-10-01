@@ -97,7 +97,7 @@ We are tasked to create a link that will fit our bracket design. For the measure
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/09ed183f-1e5c-4e3f-aea9-a6fcc16bbf5f" />
 </div>
 
 
