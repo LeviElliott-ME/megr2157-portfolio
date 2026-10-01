@@ -54,13 +54,14 @@ For feature E I made a sketch from feature D. Then I added my length, base, and 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2a8f7f26-77e0-465b-9406-460c65c2efb5" />
 </div>
 
-<div align="center">
-
-</div>
+##CAD Drawing
 
 <div align="center">
 
 </div>
 
-## Communicate
+<div align="center">
+
+</div>
+
 
