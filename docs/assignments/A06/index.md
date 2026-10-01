@@ -33,13 +33,13 @@ For feature B I made the sketch from feature A. I then added my base, height, an
 </div>
 
 **Feature C:**
-
+For feature C I made a sketch from feature B. Then I added my length, base, and heigth values.
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dcf4e879-04e2-4269-9384-acab06c8928a" />
 </div>
 
 **Feature D:**
-
+For feature D I made a sketch from feature C. Then I added my length, height, and base values for both sides.
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b16aabf-83e4-4e9a-90a5-1494b1dec170" />
 </div>
@@ -49,7 +49,7 @@ For feature B I made the sketch from feature A. I then added my base, height, an
 </div>
 
 **Feature E:**
-
+For feature E I made a sketch from feature D. Then I added my length, base, and height values for both sides.
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2a8f7f26-77e0-465b-9406-460c65c2efb5" />
 </div>
