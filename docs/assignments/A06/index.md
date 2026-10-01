@@ -57,7 +57,7 @@ For feature E I made a sketch from feature D. Then I added my length, base, and 
 ##CAD Drawing
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dc55ba82-ccc9-4804-a841-0d5512ea1480" />
 </div>
 
 <div align="center">
