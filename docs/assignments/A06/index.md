@@ -101,4 +101,9 @@ We are tasked to create a link that will fit our bracket design. For the measure
 </div>
 
 ## CAD files
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQAS9pmAkDQeRYKphAiBFqIpAYK2gD7GwptG8gXsrlB6nno?e=i4j9P4
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQCbkE-4aWxWSJ8MUTJg2Hi5AUeeSb96UDJtT3GXnK4y55o?e=DgLK4k
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQAiwtYPRM0jQ6AmNMezYusyAewYtv19Dw8RYo3XK3PkQ10?e=Ty910f
+https://1drv.ms/u/c/9dc8fdbc6b2a0dfb/IQBZY5vIevGpTJ0DrXdr5xjaAckSCCGZvVygVnngYRM5t50?e=6GejHj
+
 
