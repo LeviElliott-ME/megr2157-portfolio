@@ -33,7 +33,7 @@ Before I start my CAD design I need to set up my parametric values. I have taken
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b16aabf-83e4-4e9a-90a5-1494b1dec170" />
 </div>
 
 <div align="center">
