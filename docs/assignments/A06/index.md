@@ -16,22 +16,41 @@ Before I start my CAD design I need to set up my parametric values. I have taken
 
 
 
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/49434637-5b0a-4b8f-9705-45f8cbbcd024" />
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
+</div>
 
 ## Communicate
 
