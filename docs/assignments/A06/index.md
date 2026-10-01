@@ -82,7 +82,7 @@ The total time that I spent on this assignment was about 4 hours.
 
 ## 2157 Students
 
-
+We are tasked to create a link that will fit our bracket design. For the measurements of this part I am using my calculated stress values.
 
 
 
