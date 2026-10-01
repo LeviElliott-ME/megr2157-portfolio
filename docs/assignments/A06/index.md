@@ -61,7 +61,7 @@ For feature E I made a sketch from feature D. Then I added my length, base, and 
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f8c4f97c-0308-4402-b6f3-f0539305b3ff" />
 </div>
 
 
