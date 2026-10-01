@@ -16,8 +16,8 @@ Before I start my CAD design I need to set up my parametric values. I have taken
 
 We now have to make a CAD design of our part. I started with feature A and when in order to feature E. The dimensions for each feature I obtained from my parametric values table.
 
-**Feature A**
-
+**Feature A:**
+For this feature I created a circle. I added my dimensions for the diameter and then I extruded the circle to the value of my length.
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/49434637-5b0a-4b8f-9705-45f8cbbcd024" />
 </div>
@@ -26,19 +26,19 @@ We now have to make a CAD design of our part. I started with feature A and when 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/18f09355-82c9-451f-b8dc-c47947196ea0" />
 </div>
 
-**Feature B**
-
+**Feature B:**
+For feature B I made the sketch from feature A. I then added my base, height, and width values. 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/94eddee1-0254-4fad-922b-3ddbe60a9b7f" />
 </div>
 
-**Feature C**
+**Feature C:**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dcf4e879-04e2-4269-9384-acab06c8928a" />
 </div>
 
-**Feature D**
+**Feature D:**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0b16aabf-83e4-4e9a-90a5-1494b1dec170" />
@@ -48,7 +48,7 @@ We now have to make a CAD design of our part. I started with feature A and when 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6c218934-01e2-4542-bb50-be412294ecd6" />
 </div>
 
-**Feature E**
+**Feature E:**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2a8f7f26-77e0-465b-9406-460c65c2efb5" />
