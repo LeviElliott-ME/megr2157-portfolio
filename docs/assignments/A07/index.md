@@ -1,6 +1,8 @@
-# A7 – [Topic]
+# A7 – FEA on Bracket
 
-## Objective
+## Objectives:
+
+
 
 
 ## Analyze
