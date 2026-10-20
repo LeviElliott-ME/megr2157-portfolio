@@ -1,6 +1,6 @@
 # A7 – FEA on Bracket
 
-## Objectives:
+## Objectives
 For this weeks assignment the objectives are
 
 -Use Finite Element Analysis (FEA) to improve the bracket design from previous assignments.
@@ -18,6 +18,15 @@ For this weeks assignment the objectives are
 -Document the entire process with images, calculations, and insights.
 
 -Reflect on key engineering lessons learned and time spent.
+
+## Decription
+
+The task is simply to create a high stiff, high strength, and lightweight component. Use Finite Element analysis to drive my decision making process throughout my design. Each step of the analysis and before I make geometric changes make sure the component’s results (stress/displacement/Safety Factor) converge on a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
+
+
+
+
+
 
 
 
