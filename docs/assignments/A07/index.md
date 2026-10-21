@@ -54,7 +54,7 @@ For the three different designs of our bracket we have to adjust the mesh densit
 
 **Design 2**
 
-For the second design I doubled the thickness of feature B from 0.1026in t0 0.2052in.
+For the second design I doubled the thickness of feature B from 0.1026in t0 0.2052in. This is because feauture B is the weak point is of my bracket.
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/abf7c2cc-fe7a-422f-a52e-425c77e0ca41" />
@@ -71,6 +71,10 @@ For the second design I doubled the thickness of feature B from 0.1026in t0 0.20
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4be4a489-181c-4b4a-acbf-36d9d9729bbb" />
 </div>
+
+**Design 3**
+
+For the third design I kept the change from design two. I also added some supports for feature B. This is because after my previous change feature B is still the weak point so I wanted to add some support to try to improve it.
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f4ffe509-8379-46db-b276-b593ef9f5bbd" />
