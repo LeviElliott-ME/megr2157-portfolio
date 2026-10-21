@@ -28,14 +28,60 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e443faa0-9126-425a-b53b-7ab7ce997af3" />
 </div>
 
+<div align="center">
 
+</div>
 
+<div align="center">
 
-## Analyze
+</div>
 
+<div align="center">
 
-## Decide
+</div>
 
+<div align="center">
 
-## Communicate
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
 
