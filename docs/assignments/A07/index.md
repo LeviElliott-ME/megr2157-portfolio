@@ -40,6 +40,7 @@ For the three different designs of our bracket we have to adjust the mesh densit
 
 **Design 1**
 
+For each design I added the pictures from the second mesh. The pictures show the stress, strain, and safety factor simulations.
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4af37a11-9b9a-4434-bc2e-f5e8cf0e7be4" />
 </div>
