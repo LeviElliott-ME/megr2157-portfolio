@@ -77,7 +77,7 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 </div>
 
 <div align="center">
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
+<img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
 </div>
 
 ## 2157 Students Link FEA
