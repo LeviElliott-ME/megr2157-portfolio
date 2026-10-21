@@ -25,7 +25,8 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 
 ## Analysis
 
-With the original bracket that I designed in the pervious assignment. I had to assign the fixture points and where the 600lbf external force is applied. After I did this I could create the mesh.
+**Parameters/Mesh**
+With the original bracket that I designed in the pervious assignment. I had to assign the parameters. These are fixture points and where the 600lbf external force is applied. After I did this I could create a mesh of the entire part.
 
 <div align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e443faa0-9126-425a-b53b-7ab7ce997af3" />
