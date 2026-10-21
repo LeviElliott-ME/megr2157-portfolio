@@ -23,10 +23,17 @@ For this weeks assignment the objectives are
 
 The task is simply to create a high stiff, high strength, and lightweight component. Use Finite Element analysis to drive my decision making process throughout my design. Each step of the analysis and before I make geometric changes make sure the component’s results (stress/displacement/Safety Factor) converge on a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
 
+## Creating Mesh for FEA
+
+With the original bracket that I designed in the pervious assignment. I had to assign the fixture points and where the 600lbf external force is applied. After I did this I could create the mesh.
 
 <div align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e443faa0-9126-425a-b53b-7ab7ce997af3" />
 </div>
+
+## Mesh density slider
+
+For the three different designs of our bracket we have to adjust the mesh density slider. Which modifies the number of elements. For each design we have to run three different mesh density settings making it more fine each time. Then we have to gather the max stress, strain, safety factor, and displacement values. These are the four different tests that the study simulation conducts. 
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b497cbf4-74f9-4e4b-847e-6ca7b78cf9f6" />
