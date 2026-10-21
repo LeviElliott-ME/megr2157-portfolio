@@ -24,7 +24,7 @@ For this weeks assignment the objectives are
 The task is simply to create a high stiff, high strength, and lightweight component. Use Finite Element analysis to drive my decision making process throughout my design. Each step of the analysis and before I make geometric changes make sure the component’s results (stress/displacement/Safety Factor) converge on a 7% difference. Achieve this by modifying the number of elements. If after three attempts to converge use the stiffness and stress from the finer mesh size use the finest mesh size and proceed through the process.
 
 
-
+<div align="center">
 <img width="916" height="909" alt="image" src="https://github.com/user-attachments/assets/e443faa0-9126-425a-b53b-7ab7ce997af3" />
 
 
