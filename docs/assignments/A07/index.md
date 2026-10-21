@@ -32,7 +32,7 @@ With the original bracket that I designed in the pervious assignment. I had to a
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e443faa0-9126-425a-b53b-7ab7ce997af3" />
 </div>
 
-For the three different designs of our bracket we have to adjust the mesh density slider. Which modifies the number of elements. For each design we have to run three different mesh density settings making it more fine each time. Then we have to gather the max stress, strain, safety factor, and displacement values. These are the four different tests that the study simulation conducts. 
+For the three different designs of our bracket we have to adjust the mesh density slider. Which modifies the number of elements. For each design we have to run three different mesh density settings making it more fine each time. Then we have to gather the max stress, strain, safety factor, and displacement values. These are the four different tests that the study simulation conducts. We also have to see of each of the different meshes converge (within 7%).
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b497cbf4-74f9-4e4b-847e-6ca7b78cf9f6" />
@@ -92,6 +92,10 @@ For the third design I kept the change from design two. I also added some suppor
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b14ac0c0-c0af-4c71-9484-2eb7bb4beaad" />
 </div>
+
+**Values Table**
+
+I recorded my values for the 3 designs and each of the meshes recorded. If the meshes did not converge (not within 7%). I conducted a fourth mesh. 
 
 <div align="center">
 <img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
