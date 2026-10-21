@@ -38,6 +38,8 @@ For the three different designs of our bracket we have to adjust the mesh densit
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b497cbf4-74f9-4e4b-847e-6ca7b78cf9f6" />
 </div>
 
+**Design 1**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4af37a11-9b9a-4434-bc2e-f5e8cf0e7be4" />
 </div>
@@ -49,6 +51,8 @@ For the three different designs of our bracket we have to adjust the mesh densit
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8ec90a34-cf51-49f2-bf28-60ac30918746" />
 </div>
+
+**Design 2**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/abf7c2cc-fe7a-422f-a52e-425c77e0ca41" />
