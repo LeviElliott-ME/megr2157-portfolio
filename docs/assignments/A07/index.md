@@ -69,7 +69,7 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 </div>
 
 <div align="center">
-
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ec5c68e8-2846-463f-bf8e-8b9e2bc5530a" />
 </div>
 
 <div align="center">
