@@ -29,61 +29,61 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/4af37a11-9b9a-4434-bc2e-f5e8cf0e7be4" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4af37a11-9b9a-4434-bc2e-f5e8cf0e7be4" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0e99226e-83be-4ef2-a9e4-cb74d255b1b7" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0e99226e-83be-4ef2-a9e4-cb74d255b1b7" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8ec90a34-cf51-49f2-bf28-60ac30918746" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8ec90a34-cf51-49f2-bf28-60ac30918746" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/abf7c2cc-fe7a-422f-a52e-425c77e0ca41" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/abf7c2cc-fe7a-422f-a52e-425c77e0ca41" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/906f06aa-867d-43d5-85d5-50728cfc0e22" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/906f06aa-867d-43d5-85d5-50728cfc0e22" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/9274e01a-b041-497a-b09b-b5b2fb220f50" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/9274e01a-b041-497a-b09b-b5b2fb220f50" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/4031bc25-1b2a-414e-83df-53f9265543cc" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4031bc25-1b2a-414e-83df-53f9265543cc" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/4be4a489-181c-4b4a-acbf-36d9d9729bbb" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4be4a489-181c-4b4a-acbf-36d9d9729bbb" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f4ffe509-8379-46db-b276-b593ef9f5bbd" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f4ffe509-8379-46db-b276-b593ef9f5bbd" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/33a61bc8-bc47-45b0-a23f-1593c39c0a23" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/33a61bc8-bc47-45b0-a23f-1593c39c0a23" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ec5c68e8-2846-463f-bf8e-8b9e2bc5530a" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/ec5c68e8-2846-463f-bf8e-8b9e2bc5530a" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/b14ac0c0-c0af-4c71-9484-2eb7bb4beaad" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b14ac0c0-c0af-4c71-9484-2eb7bb4beaad" />
 </div>
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
 </div>
 
 ## 2157 Students Link FEA
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/2dee225c-c483-4b4e-bf47-37917459c289" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/2dee225c-c483-4b4e-bf47-37917459c289" />
 </div>
 
 
