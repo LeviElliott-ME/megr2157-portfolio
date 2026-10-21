@@ -53,7 +53,7 @@ For each design I added the pictures from the second mesh. The pictures show the
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/8ec90a34-cf51-49f2-bf28-60ac30918746" />
 </div>
 
-**Design 2**
+**Design 2 (optimization)**
 
 For the second design I doubled the thickness of feature B from 0.1026in t0 0.2052in. This is because feauture B is the weak point is of my bracket.
 
@@ -73,7 +73,7 @@ For the second design I doubled the thickness of feature B from 0.1026in t0 0.20
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/4be4a489-181c-4b4a-acbf-36d9d9729bbb" />
 </div>
 
-**Design 3**
+**Design 3 (optimization)**
 
 For the third design I kept the change from design two. I also added some supports for feature B. This is because after my previous change feature B is still the weak point so I wanted to add some support to try to improve it.
 
