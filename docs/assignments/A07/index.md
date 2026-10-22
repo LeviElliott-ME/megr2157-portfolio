@@ -111,4 +111,44 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/2dee225c-c483-4b4e-bf47-37917459c289" />
 </div>
 
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
 
