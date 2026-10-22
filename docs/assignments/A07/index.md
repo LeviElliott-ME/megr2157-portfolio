@@ -158,11 +158,11 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/479c0e7f-1b27-4b6b-b566-5c2be9cba21d" />
 </div>
 
-**Design 3 (optimization)**
-
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/41cf6fae-0482-475d-a619-abc90fe02536" />
 </div>
+
+**Design 3 (optimization)**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/42cf9da4-bea8-4651-9352-55f689560fc8" />
