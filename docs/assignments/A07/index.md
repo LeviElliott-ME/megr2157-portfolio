@@ -160,6 +160,6 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/60facbd2-8bc8-482c-bb6a-59cfa3b63006" />
 </div>
 
