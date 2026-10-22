@@ -144,6 +144,8 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/af9faf4f-c418-4197-97c0-85a57495242d" />
 </div>
 
+**Design 2 (optimization)**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/616af676-1394-4fcb-a875-2f326d7aff48" />
 </div>
@@ -155,6 +157,8 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/479c0e7f-1b27-4b6b-b566-5c2be9cba21d" />
 </div>
+
+**Design 3 (optimization)**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/41cf6fae-0482-475d-a619-abc90fe02536" />
