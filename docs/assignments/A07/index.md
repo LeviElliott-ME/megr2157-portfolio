@@ -116,9 +116,15 @@ We were tasked to conduct the same tests for our link design as we did for our b
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/2dee225c-c483-4b4e-bf47-37917459c289" />
 </div>
 
+**Parameters/Mesh**
+
+I added my parameters to my link. I added the fixed positions inside the top cutout circle. Then I added my downward 600lbf force inside of the bottom cutout.
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3dd38fc9-b067-44fd-8c99-e13a8d39b8b4" />
 </div>
+
+## Anaylsis
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/46ad0307-fa6c-464d-8b97-82867dfa20e4" />
