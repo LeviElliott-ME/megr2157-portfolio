@@ -152,10 +152,14 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 </div>
 
 <div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f75feb80-553e-432a-911a-177209cbff90" />
+</div>
+
+<div align="center">
 
 </div>
 
+<div align="center">
 
-
-
+</div>
 
