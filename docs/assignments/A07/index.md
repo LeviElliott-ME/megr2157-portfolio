@@ -118,17 +118,19 @@ We were tasked to conduct the same tests for our link design as we did for our b
 
 **Parameters/Mesh**
 
-I added my parameters to my link. I added the fixed positions inside the top cutout circle. Then I added my downward 600lbf force inside of the bottom cutout.
+I added my parameters to my link. I added the fixed positions inside the top cutout circle. Then I added my downward 600lbf force inside of the bottom cutout. For the link we conduct three different designs with three different meshes each. We do this by adjusting the mesh density more course each time. This will increases the number of elements. Once we have created the mesh we have to run the FEA study and gather the max stress, strain, safety factor, and number of elements. Then we have to make sure that the meshes converge from one another (within 7%).
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/3dd38fc9-b067-44fd-8c99-e13a8d39b8b4" />
 </div>
 
-## Anaylsis
-
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/46ad0307-fa6c-464d-8b97-82867dfa20e4" />
 </div>
+
+## Anaylsis
+
+**Design 1**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/24f5dda4-b4e6-43d2-a9bf-a03cd8561918" />
