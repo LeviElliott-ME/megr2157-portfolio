@@ -124,7 +124,7 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6b3b8941-57de-436e-aaa0-cb56a7c396a7" />
 </div>
 
 <div align="center">
