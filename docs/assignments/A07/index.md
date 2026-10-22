@@ -148,7 +148,14 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 </div>
 
 <div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/42cf9da4-bea8-4651-9352-55f689560fc8" />
+</div>
+
+<div align="center">
 
 </div>
+
+
+
 
 
