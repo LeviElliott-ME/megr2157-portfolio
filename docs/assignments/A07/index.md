@@ -128,6 +128,8 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 
 **Design 1**
 
+I only uploaded pictures of the second mesh of each design. I did this to try to keep the assignment organized.
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/24f5dda4-b4e6-43d2-a9bf-a03cd8561918" />
 </div>
