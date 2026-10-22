@@ -26,6 +26,7 @@ The task is simply to create a high stiff, high strength, and lightweight compon
 ## Analysis
 
 **Parameters/Mesh**
+
 With the original bracket that I designed in the pervious assignment. I had to assign the parameters. These are fixture points and where the 600lbf external force is applied. After I did this I could create a mesh of the entire part.
 
 <div align="center">
@@ -108,6 +109,7 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 ## 2157 Students Link FEA
 
 ## Description
+
 We were tasked to conduct the same tests for our link design as we did for our bracket.
 
 <div align="center">
