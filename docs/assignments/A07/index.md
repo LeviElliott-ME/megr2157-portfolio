@@ -94,17 +94,13 @@ For the third design I kept the change from design two. I also added some suppor
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b14ac0c0-c0af-4c71-9484-2eb7bb4beaad" />
 </div>
 
-**Values Table**
+**Value Tables**
 
 I recorded my values for the 3 designs and each of the meshes recorded. If the meshes did not converge (not within 7%). I conducted a fourth mesh. 
 
 <div align="center">
 <img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
 </div>
-
-## Reflection
-
-
 
 ## 2157 Students Link FEA
 
@@ -146,6 +142,8 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 
 **Design 2 (optimization)**
 
+For my second design I increased the links thickness from 0.15in to 0.30in. I did this because my goal was to make the entire part stronger.
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/616af676-1394-4fcb-a875-2f326d7aff48" />
 </div>
@@ -164,6 +162,8 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 
 **Design 3 (optimization)**
 
+For my third design I increased the links thickness from 0.30in to 1in. I did this because the previous changes made a positive impact on the FEA values. So I figured if I increased the thickness of the link once more it would be a positive impact.
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/42cf9da4-bea8-4651-9352-55f689560fc8" />
 </div>
@@ -176,7 +176,23 @@ I added my parameters to my link. I added the fixed positions inside the top cut
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0994ce45-7fb3-4556-8633-e74202f33b10" />
 </div>
 
+**Values Tables**
+
+I recorded my values into the tables as I did for the bracket. With the max values of the designs at the top. Then, I recorded my values for each design and mesh for the FEAs.
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/60facbd2-8bc8-482c-bb6a-59cfa3b63006" />
 </div>
+
+## Reflection
+
+While completing this assignment it has given me time to reflect. We can find some of the FEA values by hand. That greatly depends if our values are correct or not. When conducting the FEA on the bracket and link it gives you a great visual for stress, strain, deflection, and safety factor values. This is very helpful because you can see where changes can be made that would greatly improve the part. If I could redesign my part I believe that I could improve it for the better. I see why FEAs are so important for engineers to utilize. This can make a very complicated concept easier to visulize and to conduct. 
+
+## Lessons Learned
+
+I have learned a lot a valuable concepts throughout this assignment. These include assigning fixtures and forces. Also, being more familiar creating meshes. I learned how to conduct stress, strain, deflection, and safety factor simulations. I also learned that some design modifications can make the overall part better and worse.
+
+## Time spent
+
+This assignment as taken me a total of 6 hours to complete.
 
