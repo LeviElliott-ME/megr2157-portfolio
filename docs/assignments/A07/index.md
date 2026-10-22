@@ -101,6 +101,10 @@ I recorded my values for the 3 designs and each of the meshes recorded. If the m
 <img width="650" height="550" alt="image" src="https://github.com/user-attachments/assets/a64a2c25-829e-4240-9b88-09ec39bae7b4" />
 </div>
 
+## Reflection
+
+
+
 ## 2157 Students Link FEA
 
 <div align="center">
