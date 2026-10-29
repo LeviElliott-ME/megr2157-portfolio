@@ -156,7 +156,7 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 
 ## Lessons Learned and Reflections 
 
-
+This assignment has taken me about 9 hours. I struggled the most with designing the housing. This is because when designing you have to take all of the other dimensions into consideration and build off of that. With that being said I had to try multiple times to get the housing to come together correctly. Overall the assignment was a great learning experience. I learned so mush about velocity and pressure. I also learned how to find the thickness of a bearing. Then most importantly I was able to put everything together into a assembly. 
 
 ## 2157 Students
 We are tasked to create two drawings for the input and output shafts. Two drawing for the bearing. Two drawings for the housing (one for each side). Lastly, a drawing of the assembly.
