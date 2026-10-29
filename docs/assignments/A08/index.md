@@ -182,7 +182,7 @@ We are tasked to create two drawings for the input and output shafts. Two drawin
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7fb9ae49-838c-49db-aa32-f149c27fb842" />
 </div>
 
 <div align="center">
