@@ -64,6 +64,8 @@ For the journal bearing design we are provided options from the McMaster-Carr Ca
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/23a9181f-cdc8-4eb3-8b80-7256e3b7c965" />
 </div>
 
+**McMaster-Carr bearings**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/7a341b58-0e25-4911-8392-223f9a7932ab" />
 </div>
