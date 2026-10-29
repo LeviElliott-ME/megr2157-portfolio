@@ -27,17 +27,27 @@ Assumptions:
 -The moment of the radial force from the gear train is small enough to be ignored.
 
 <div align="center">
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/c4d760a6-8c29-4cb4-a794-bc5a03dc3344" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/c4d760a6-8c29-4cb4-a794-bc5a03dc3344" />
+</div>
 
 ## Shaft Design
 
 To design the input shaft and the output shaft I needed to find the equations From the machinery's handbook. We need to find the equations for the power going through the shafts, the torque applied on each shaft, and the speed of each shaft. With the given 24:9 ratio, I used the equations to find the speed and torque. Our input shaft we needed to use a maximum shear stress of 4000psi and for the output shaft we needed to use a max shear stress of 8500psi. With these equations I was able to solve for diameters that are related to the power and torque. The diameters I solved for were each sufficient so I could keep the original diameters. 
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/80c43372-341c-4d56-944e-e9cb32270c93" />
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/80c43372-341c-4d56-944e-e9cb32270c93" />
+</div>
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/b5000f97-0944-4c40-8e6b-7cf3fdde2e38" />
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/b5000f97-0944-4c40-8e6b-7cf3fdde2e38" />
+</div>
 
 ## Journal bearing Design
+
+
+
+
+
 
 
 ## Analyze
