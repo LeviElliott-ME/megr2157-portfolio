@@ -44,7 +44,9 @@ To design the input shaft and the output shaft I needed to find the equations Fr
 
 ## Journal bearing Design
 
-
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d7a1bf2b-f9b7-4ff1-9f29-bf393755f36c" />
+</div>
 
 
 
