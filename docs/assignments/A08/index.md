@@ -71,10 +71,59 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 
 **Gear Box Drawing**
 
-<div align="center">
+</div>
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5bac13a8-ad1f-4f7c-8001-b44cf3b87c2a" />
 </div>
-  
+
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/e972a398-8e47-4364-998f-d908fb835d96" />
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Analyze
 
 
