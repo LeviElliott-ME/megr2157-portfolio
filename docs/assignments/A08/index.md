@@ -162,7 +162,7 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 We are tasked to create two drawings for the input and output shafts. Two drawing for the bearing. Two drawings for the housing (one for each side). Lastly, a drawing of the assembly.
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d4c6b987-79de-46da-b355-ea6d9739a3d4" />
 </div>
 
 <div align="center">
