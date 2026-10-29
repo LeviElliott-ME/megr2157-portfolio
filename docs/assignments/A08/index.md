@@ -36,7 +36,7 @@ To design the input shaft and the output shaft I needed to find the equations Fr
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/b5000f97-0944-4c40-8e6b-7cf3fdde2e38" />
 
-
+## Journal bearing Design
 
 
 ## Analyze
