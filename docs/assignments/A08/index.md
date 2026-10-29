@@ -28,6 +28,14 @@ Assumptions:
 
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/c4d760a6-8c29-4cb4-a794-bc5a03dc3344" />
 
+## Shaft Design
+
+To design the input shaft and the output shaft I needed to find the equations From the machinery's handbook. We need to find the equations for the power going through the shafts, the torque applied on each shaft, and the speed of each shaft. With the given 24:9 ratio, I used the equations to find the speed and torque. Our input shaft we needed to use a maximum shear stress of 4000psi and for the output shaft we needed to use a max shear stress of 8500psi. With these equations I was able to solve for diameters that are related to the power and torque. The diameters I solved for were each sufficient so I could keep the original diameters. 
+
+
+
+
+
 
 ## Analyze
 
