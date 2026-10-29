@@ -26,6 +26,7 @@ Assumptions:
 
 -The moment of the radial force from the gear train is small enough to be ignored.
 
+<div align="center">
 <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/c4d760a6-8c29-4cb4-a794-bc5a03dc3344" />
 
 ## Shaft Design
