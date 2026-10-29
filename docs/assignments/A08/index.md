@@ -102,7 +102,7 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5e6e59ca-1697-4b39-9827-93805f16cbcf" />
 </div>
 
 <div align="center">
