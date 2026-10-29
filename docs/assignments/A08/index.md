@@ -178,7 +178,7 @@ We are tasked to create two drawings for the input and output shafts. Two drawin
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/6534d4c2-c331-4ba4-959c-9fa56c2bd6b8" />
 </div>
 
 <div align="center">
