@@ -69,6 +69,12 @@ For the journal bearing design we are provided options from the McMaster-Carr Ca
 The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearings. Using CAD we were tasked with designing the input and output shafts and housing for the assembly. Designing the shafts we use the given diameters of 0.125in and 0.250in. Then we use the length of 1in. Designing these did not take long at all. Since the shafts are press fit I added filets on the ends. Then I started designing the housing. I decided to use a snap fit design for the housing. This means that the housing can come apart into two pieces without needing bolts. I made the housing big enough for the gears to fit into. Then I extrude cut the holes in the sides for the bearings to fit into. I then started on the assembly. I mated the shafts, journal bearings, and the gears together. then the tricky part was mating the gears correctly so they function with one another. To do this I used the mechanical mate and chose the 24:9 gear ratio. 
 
 
+**Gear Box Drawing**
+
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5bac13a8-ad1f-4f7c-8001-b44cf3b87c2a" />
+</div>
+  
 ## Analyze
 
 
