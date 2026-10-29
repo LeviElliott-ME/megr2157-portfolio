@@ -44,7 +44,7 @@ To design the input shaft and the output shaft I needed to find the equations Fr
 
 ## Journal bearing Design
 
-
+For the journal bearing design we are provided options from the McMaster-Carr Catalog. Although, we have to calculate the thickness of the input bearing and the output bearing. We also have to calculate what material of bearings we need. To do so we have to solve for velocity, pressure, and the PV rating. While looking through the catalog I figured I would use a bearing length of a 1/4in. The bearings are designed as running/sliding fits. I used the RC5 table to determine the inner bearing diameter for both shafts. Then I solved for velocity, pressure, and PV rating and determined the material that I am going to use is the Graphite (dry). Then the next step was to solve for the thickness of the bearings. To solve for the thickness I used the pressure/axial stress formula. Using the radial force acting on the bearing and the cross-sectional area of the bearing diameter. I was able to find the thickness for each of the bearings.
 
 **Input Bearing**
 
