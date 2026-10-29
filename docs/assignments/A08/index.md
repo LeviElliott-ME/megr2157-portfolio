@@ -85,17 +85,25 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/5bac13a8-ad1f-4f7c-8001-b44cf3b87c2a" />
 </div>
 
+**Input Shaft**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f03f2c2c-df41-4b67-bf9c-b0da2c05d3f8" />
 </div>
+
+**Output Shaft**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/72fd568b-267f-42dd-9503-097e8b15e04a" />
 </div>
 
+**Input Bearing**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1daecede-2951-4c63-9d9a-e5e9359e1463" />
 </div>
+
+**Output Bearing**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/311c72a9-404c-4789-9786-0c52ea90dd0d" />
