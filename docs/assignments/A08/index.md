@@ -44,14 +44,25 @@ To design the input shaft and the output shaft I needed to find the equations Fr
 
 ## Journal bearing Design
 
+
+
+**Input Bearing**
+
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/d7a1bf2b-f9b7-4ff1-9f29-bf393755f36c" />
 </div>
+
+**Output Bearing**
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/47ed52f6-3fd7-4450-8949-5921f17d0326" />
 </div>
 
+**Bearing Thickness**
+
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/23a9181f-cdc8-4eb3-8b80-7256e3b7c965" />
+</div>
 
 ## Analyze
 
