@@ -150,16 +150,12 @@ The McMaster-Carr Catalog provided use the pinion, gear, and the journal bearing
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/efe49eb8-fd7f-408f-a423-cfdcc10dd3e4" />
 </div>
 
+## Lessons Learned and Reflections 
 
 
 
+## 2157 Students
 
 
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+## CAD Links
 
