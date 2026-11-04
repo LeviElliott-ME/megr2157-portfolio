@@ -31,7 +31,7 @@ After calculating the diameter and the circumference we can go to the McMaster-C
 
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/74c50529-a4d3-40ea-926d-4d6d0f41b549" />
 </div>
 
 ## Journal Bearing
