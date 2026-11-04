@@ -12,9 +12,11 @@ Pulley Diameter: Both pulleys shall have a diameter of 3 inches. Rotational Spee
 
 ## Design
 
+My first step was to list my knowns and unknowns. This is because it helps understand what values we have and the values that we need to solve for. My chosen belt tension value is 4 lbf and my chosen value for RPM is 2000. 
 
+<div align="center">
 
-
+</div>
 
 
 
