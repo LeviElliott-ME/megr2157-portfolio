@@ -15,7 +15,7 @@ Pulley Diameter: Both pulleys shall have a diameter of 3 inches. Rotational Spee
 My first step was to list my knowns and unknowns. This is because it helps understand what values we have and the values that we need to solve for. My chosen belt tension value is 4 lbf and my chosen value for RPM is 2000. 
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/0cb78377-dc36-49fc-af46-71c65fcd8005" />
 </div>
 
 ## Belt choice
