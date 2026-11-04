@@ -36,7 +36,7 @@ To design a shaft that would fit into the pully I followed a similar process as 
 
 ## Journal Bearing
 
-For the journal bearing I used the same approach as before. Using a a of 0.005 for the bearing. I also used 1 inch as the bearing length. Then, I found the equations that I needed to find the linear velocity, PV rating, and the material using the chart from the machinerys handbook.
+For the journal bearing I used the same approach as before. Using a a of 0.005 for the bearing. I also used 1 inch as the bearing length. Then, I found the equations that I needed to find the linear velocity, PV rating, and the material using the chart from the machinery's handbook. Once I looked at the chart the material that I chose for the journal bearings are porous bronze.
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/de63b55e-7fa4-4d7b-aa8f-c7ac4642994f" />
