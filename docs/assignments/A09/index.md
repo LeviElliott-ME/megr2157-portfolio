@@ -10,6 +10,15 @@ Pulley Diameter: Both pulleys shall have a diameter of 3 inches. Rotational Spee
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/17e393cd-fb02-4352-965d-52eeea355dbf" />
 </div>
 
+## Design
+
+
+
+
+
+
+
+
 ## Analyze
 
 
