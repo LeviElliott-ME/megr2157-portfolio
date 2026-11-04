@@ -43,7 +43,7 @@ After calculating the diameter and the circumference we can go to the McMaster-C
 </div>
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/11642901-18d9-44d8-b94d-c0a7b6387631" />
 </div>
 
 
