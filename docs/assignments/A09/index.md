@@ -15,7 +15,7 @@ Pulley Diameter: Both pulleys shall have a diameter of 3 inches. Rotational Spee
 My first step was to list my knowns and unknowns. This is because it helps understand what values we have and the values that we need to solve for. My chosen belt tension value is 4 lbf and my chosen value for RPM is 2000. 
 
 <div align="center">
-<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1054330f-0ab4-41e8-a9d5-6d490298191a" />
+
 </div>
 
 ## Belt choice
@@ -30,9 +30,20 @@ After calculating the diameter and the circumference we can go to the McMaster-C
 
 
 
+<div align="center">
+
+</div>
+
+## Journal Bearing
 
 
-## Decide
+
+
+
+
+
+
+
 
 
 ## Communicate
