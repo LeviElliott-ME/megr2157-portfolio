@@ -26,7 +26,7 @@ After calculating the diameter and the circumference we can go to the McMaster-C
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/482fb716-2baf-4ca0-b77f-36268ff7e3cf" />
 </div>
 
-
+## Shaft Design
 
 
 
