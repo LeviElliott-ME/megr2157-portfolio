@@ -28,7 +28,7 @@ After calculating the diameter and the circumference we can go to the McMaster-C
 
 ## Shaft Design
 
-
+To design a shaft that would fit into the pully I followed a similar process as the belt design process. First thing I did was list my knowns and unknowns and drew a free body diagram. Then, to find the diameter for the shaft I used torque and shear stress equations. Using them gave me a value very close to 1/4 inch, so I used 1/4 inch as the shafts diameter.
 
 <div align="center">
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/74c50529-a4d3-40ea-926d-4d6d0f41b549" />
