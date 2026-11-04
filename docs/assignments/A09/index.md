@@ -23,7 +23,7 @@ My first step was to list my knowns and unknowns. This is because it helps under
 After calculating the diameter and the circumference we can go to the McMaster-Carr website and look at the round belts. To find the belt that satisfies our requirements. I chose a polyurethane belt. That has a diameter of 1/4 inch and a circumference of 24 2/4 inch to 36 inches. The part number of the belt is 3044K706.
 
 <div align="center">
-
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/482fb716-2baf-4ca0-b77f-36268ff7e3cf" />
 </div>
 
 
