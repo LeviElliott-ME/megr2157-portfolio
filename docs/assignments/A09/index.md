@@ -10,7 +10,7 @@ Pulley Diameter: Both pulleys shall have a diameter of 3 inches. Rotational Spee
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/17e393cd-fb02-4352-965d-52eeea355dbf" />
 </div>
 
-## Design
+## Belt Design
 
 My first step was to list my knowns and unknowns. This is because it helps understand what values we have and the values that we need to solve for. My chosen belt tension value is 4 lbf and my chosen value for RPM is 2000. 
 
@@ -18,10 +18,18 @@ My first step was to list my knowns and unknowns. This is because it helps under
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/1054330f-0ab4-41e8-a9d5-6d490298191a" />
 </div>
 
+## Belt choice
+
+After calculating the diameter and the circumference we can go to the McMaster-Carr website and look at the round belts. To find the belt that satisfies our requirements. I chose a polyurethane belt. That has a diameter of 1/4 inch and a circumference of 24 2/4 inch to 36 inches. The part number of the belt is 3044K706.
+
+<div align="center">
+
+</div>
 
 
 
-## Analyze
+
+
 
 
 ## Decide
