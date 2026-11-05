@@ -55,6 +55,20 @@ When designing the frame for your pulleys design I used the values that we previ
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fcd0d4f5-7f84-4df4-96e3-f10e83083f72" />
 </div>
 
+## Lessons Learned
+
+During this assignment I learned how to use torque equations to find needed measurements I learned how to fin loose and tight tensile forces applied on the pully and how to use PV values with the chart from the machinery's handbook to choose an appropriate material. I found finding the proper equations to solve for needed values challenging. This is the part of the assignment that I spent the most time on. I found this assignment interesting because pulleys are used on every automotive vehicle. A timing belt on a vehicle is a critical part for the vehicle to run properly.
+
+## Time Spent
+
+This assignment took me around 5 hours to complete.
+
+
+
+
+
+
+
 
 
 
