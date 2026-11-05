@@ -47,5 +47,15 @@ For the journal bearing I used the same approach as before. Using a a of 0.005 f
 </div>
 
 
-## Communicate
+## Frame Design
+
+When designing the frame for your pulleys design I used the values that we previously found. For my design I made the height and the length of the frame a little larger than the pully diameter and longer than the pulley length. I did this so the pulley has a guide.
+
+<div align="center">
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/fcd0d4f5-7f84-4df4-96e3-f10e83083f72" />
+</div>
+
+
+
+
 
